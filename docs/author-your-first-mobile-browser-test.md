@@ -96,7 +96,8 @@ As you add each instruction, KaneAI queues them in real-time without waiting for
 | Sites with Permission Popups (notifications, cookies, location)       | Supported (Android only) | Popups are auto-accepted on Android. iOS not supported currently.                    |
 | Cookies & Local Storage                                               | Supported             |                                                                                         |
 | Network Assertions                                                    | Not Supported         | Not yet available for mobile web; only supported on web.                                |
-| Negative Scenarios from App UX (e.g. switch app, go to home, go back) | Not Supported         | These are app-specific and not currently available in browser testing mode.             |        |
+| Negative Scenarios from App UX (e.g. switch app, go to home, go back) | Not Supported         | These are app-specific and not currently available in browser testing mode.             |
+| GPS Location Override                                                 | Supported             | Can be set at session start and changed within a running session. [Learn more](/support/docs/kaneai-gps-location/). |
 
 > _Have any feedback or request? Reach out to us via support@testmu.ai and we would be happy to hear from you._
 
