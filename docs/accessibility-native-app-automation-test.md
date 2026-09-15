@@ -152,6 +152,7 @@ Accessibility scanning supports **native** Android and iOS apps only. **Hybrid a
 ## Related docs
 
 - [Scan Configurations via Capabilities (Automation)](/support/docs/accessibility-automation-scan-configurations/)
+- [Rule and Category Exclusion for Mobile App Accessibility](/support/docs/accessibility-mobile-rule-exclusion/)
 - [Appium TestNG](/support/docs/accessibility-appium-testng/)
 - [Appium WebdriverIO](/support/docs/accessibility-appium-webdriverio/)
 - [Accessibility App Scanner (Overview)](/support/docs/accessibility-app-scanner/)

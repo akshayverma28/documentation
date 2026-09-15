@@ -1453,6 +1453,16 @@ module.exports = {
               },
               {
                 type: "doc",
+                label: "Rule & Category Exclusion (Automation)",
+                id: "accessibility-web-automation-rule-exclusion",
+              },
+              {
+                type: "doc",
+                label: "Rule & Category Exclusion (DevTools & Scheduling)",
+                id: "accessibility-devtools-rule-exclusion",
+              },
+              {
+                type: "doc",
                 label: "AI Issue Detection Agent",
                 id: "accessibility-ai-issue-detection-agent",
               },
@@ -1486,6 +1496,11 @@ module.exports = {
                 type: "doc",
                 label: "Tag Support",
                 id: "accessibility-tag-support",
+              },
+              {
+                type: "doc",
+                label: "Rule & Category Exclusion",
+                id: "accessibility-mobile-rule-exclusion",
               },
             ],
           },
