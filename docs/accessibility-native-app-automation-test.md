@@ -156,3 +156,4 @@ Accessibility scanning supports **native** Android and iOS apps only. **Hybrid a
 - [Appium WebdriverIO](/support/docs/accessibility-appium-webdriverio/)
 - [Accessibility App Scanner (Overview)](/support/docs/accessibility-app-scanner/)
 - [Tag Support for Accessibility Scans](/support/docs/accessibility-tag-support/)
+- [Screen Reader Automation (Overview)](/support/docs/accessibility-screen-reader-automation/)

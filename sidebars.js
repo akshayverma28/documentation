@@ -1380,6 +1380,27 @@ module.exports = {
               },
             ],
           },
+          {
+            type: "category",
+            collapsed: true,
+            label: "Screen Reader Automation",
+            link: {
+              type: "doc",
+              id: "accessibility-screen-reader-automation",
+            },
+            items: [
+              {
+                type: "doc",
+                label: "Auto Report",
+                id: "accessibility-screen-reader-automation-auto-report",
+              },
+              {
+                type: "doc",
+                label: "Executor Hooks",
+                id: "accessibility-screen-reader-automation-hooks",
+              },
+            ],
+          },
         ],
       },
       {
